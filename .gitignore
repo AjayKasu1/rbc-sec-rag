@@ -1,0 +1,18 @@
+# System
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+Dataset/
+chroma_db/
+eval_results.csv
+
+# Environment
+venv/
+.env
+
+# Logs/Pytest
+.pytest_cache/

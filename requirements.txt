@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+chromadb
+langchain
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+streamlit
+pytest
+httpx
+pydantic-settings
