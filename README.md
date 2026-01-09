@@ -37,7 +37,4 @@ A production-style GenAI RAG service for Capital Markets Research, utilizing SEC
 - `agent_controller.py`: Core logic for RAG and tools.
 - `eval_pipeline.py`: Automated evaluation script.
 
-## Resume Points
-- Implemented high-performance GenAI RAG service for SEC filings using LangChain and ChromaDB.
-- Deployed agentic controller with custom tools for real-time financial ratio analysis.
-- Designed comprehensive evaluation pipeline with LLM-as-a-judge metrics and monitoring dashboard.
+
